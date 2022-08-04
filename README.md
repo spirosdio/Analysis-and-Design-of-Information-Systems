@@ -1,2 +1,2 @@
 # Analysis-and-Design-of-Information-Systems
-our summation for Analysis and Design of Information Systems of Ntua Ece
+Our submition for Analysis and Design of Information Systems of Ntua Ece
